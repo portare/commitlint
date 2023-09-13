@@ -1,7 +1,7 @@
 function App() {
 
   return (
-    <h1>Commitlinter test</h1>
+    <h1>Commitlinter test 1</h1>
   )
 }
 
